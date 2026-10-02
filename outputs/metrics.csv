@@ -1,0 +1,5 @@
+Model,MAE,MSE,RMSE,R2
+Linear Regression (core features),1.314,4.415,2.101,0.785
+Baseline (mean of training G3),3.646,20.704,4.55,-0.01
+Linear Regression (extended features),1.377,4.584,2.141,0.776
+Linear Regression (without G1/G2),3.594,18.819,4.338,0.082
